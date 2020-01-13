@@ -5,4 +5,4 @@ This project uses openFrameworks, MaxMSP and Ableton Live to create an audio-vis
 As well as manipulating shaders, the sound also triggers a sequence of images and different functions using OSC.
 
 <b>A video can be found here:</b> https://vimeo.com/384526380
-- I couldn't find a way to record the screen without significant drop in frame rate, so a camera recording is used with overdubbing with the orignal audio.
+I couldn't find a way to record the screen without significant drop in frame rate, so a camera recording is used with overdubbing with the orignal audio.
